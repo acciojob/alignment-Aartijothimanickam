@@ -16,6 +16,9 @@ tr,td{
 
 }
 .middle{
+	align-content:center;
+}
+.center{
     text-align: center;
 }
 .right{
